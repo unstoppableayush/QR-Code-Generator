@@ -1,5 +1,5 @@
 # QR CODE GENERATOR
-This QR Code is made using HTML, CSS, Javascript.
+This QR Code is made using HTML, CSS, JavaScript.
 
 *Features:*
   - Free to access
