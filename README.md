@@ -1,5 +1,6 @@
 # QR CODE GENERATOR 📱
 This QR Code Project is made using HTML, CSS, and JavaScript. 
+
 We have used the DOM feature of JavaScript and the qrcode.js library to build this project.
 
 *Features:*
